@@ -9,6 +9,11 @@
 
     bool flag = false;
 
+
+    //someone had a nice solution using (1,1) semaphores
+
+
+
     public void Foo(Action printFoo)
     {
 
